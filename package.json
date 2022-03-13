@@ -1,0 +1,19 @@
+{
+  "name": "js-docs",
+  "version": "1.0.0",
+  "description": "Javascript Document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh-in/JS-Docs.git"
+  },
+  "author": "Rishabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabh-in/JS-Docs/issues"
+  },
+  "homepage": "https://github.com/rishabh-in/JS-Docs#readme"
+}
