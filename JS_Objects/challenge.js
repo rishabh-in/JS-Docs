@@ -2,7 +2,7 @@
 
 // Using class
 
-class Book {
+export class Book {
     constructor(bookName, noOfPages) {
         this.bookName = bookName;
         this.noOfPages = noOfPages;
