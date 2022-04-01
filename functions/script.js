@@ -18,4 +18,6 @@ element.classList.add("main-div");
 
 element.innerHTML = result;
 
-document.body.appendChild(element)
+document.body.appendChild(element);
+
+
